@@ -1,2 +1,2 @@
-# Tags: latest-s390x
+# Tags:  latest-s390x
 FROM gcr.io/distroless/static-debian10:latest-s390x
