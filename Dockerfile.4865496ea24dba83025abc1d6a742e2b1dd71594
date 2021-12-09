@@ -1,0 +1,6 @@
+# Tags: 4865496ea24dba83025abc1d6a742e2b1dd71594, acd82717f83046813dccc163193fe109245bd883, e1294bc49b840d0e2736a0326304dd0f5da973b9, e3229eb61f53e89364a071298af9b2326058f0e4, feda702af774eaf82d94ea9044af1d678cc85435
+FROM gcr.io/distroless/static-debian10:4865496ea24dba83025abc1d6a742e2b1dd71594
+FROM gcr.io/distroless/static-debian10:acd82717f83046813dccc163193fe109245bd883
+FROM gcr.io/distroless/static-debian10:e1294bc49b840d0e2736a0326304dd0f5da973b9
+FROM gcr.io/distroless/static-debian10:e3229eb61f53e89364a071298af9b2326058f0e4
+FROM gcr.io/distroless/static-debian10:feda702af774eaf82d94ea9044af1d678cc85435

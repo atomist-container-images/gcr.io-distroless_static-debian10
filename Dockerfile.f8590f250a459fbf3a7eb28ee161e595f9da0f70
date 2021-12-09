@@ -1,0 +1,2 @@
+# Tags: f8590f250a459fbf3a7eb28ee161e595f9da0f70
+FROM gcr.io/distroless/static-debian10:f8590f250a459fbf3a7eb28ee161e595f9da0f70
