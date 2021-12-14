@@ -1,4 +1,0 @@
-# Tags:  22bd467b41e5e656e31db347265fae118db166d9, b54513ef989c81d68cb27d9c7958697e2fedd2c4, eaa8223bbf439cca65b78f7b513389eb1b216db9
-FROM gcr.io/distroless/static-debian10:22bd467b41e5e656e31db347265fae118db166d9
-FROM gcr.io/distroless/static-debian10:b54513ef989c81d68cb27d9c7958697e2fedd2c4
-FROM gcr.io/distroless/static-debian10:eaa8223bbf439cca65b78f7b513389eb1b216db9

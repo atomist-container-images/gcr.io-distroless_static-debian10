@@ -1,2 +1,0 @@
-# Tags:  sha256-60a7d0c45932b6152b2f7ba561db2f91f58ab14aa90b895c58f72062c768fd77.cosign
-FROM gcr.io/distroless/static-debian10:sha256-60a7d0c45932b6152b2f7ba561db2f91f58ab14aa90b895c58f72062c768fd77.cosign
